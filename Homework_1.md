@@ -1,16 +1,13 @@
 # Bioinformatics Lecture 1
----
 - **Textook:** [Bioinformatics Tutorial](https://book.ncrnalab.org/teaching/)
 
 ## What To Learn
-===
 1. Programming Skill
 ...- Linux, R, Python (Optional)
 2. NGS Data Analysis
 3. Machine Learning
 
 ## Science
-===
 ### This Course Try To Answer:
 - Why Do Humans Have So Few Genes?
 - To What Extent Are Genetic Variation and Personal Health Linked?
@@ -23,12 +20,10 @@
 ...- **Noncoding RNA:** Canonical ncRNAs, Small ncRNAs, Long ncRNAs (lncRNA)
 
 ## Technology
-===
 - **Evolution:** S1equencing Technologies
 ...- Big and HD data
 
 ## 3 steps of Bioinformatics
-===
 1. **Information**
 ...- Images
 ...- Sequences
@@ -42,7 +37,6 @@
 ...- Examples include sorting algorithms, optimization algorithms, etc.
 
 # Bioinformatics study plan for this semester
----
 1. Have a deeper understanding of major public databases and where to obtain the required data.
 ...-such as GEO, Rfam, PDB, etc.
 2. Learn the basic pipeline of omics-seq
